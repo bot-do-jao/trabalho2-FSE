@@ -13,10 +13,10 @@ Os elevadores são integrados ao ThingsBoard para monitoramento e controle remot
 
 ## Gravação
 
-A apresentação desse trabalho foi gravada e o video pode ser conferido aqui: [Vídeo](https://www.youtube.com/watch?v=testeeeeee)
+A apresentação desse trabalho foi gravada e o video pode ser conferido aqui: [Vídeo](https://www.youtube.com/watch?v=4t_O5NHRQhg)
 
 (disclaimer: o elevador 2 estava extremamente lento e começou a subir pouco após a gravação do vídeo, vide imagem abaixo do momento: 
-![elevador2](caminho/para/a/imagem.jpg)
+![elevador2](img/Captura de tela de 2024-09-22 02-10-45.png)
 
 
 ## Comandos para Construção e Execução
